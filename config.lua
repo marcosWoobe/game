@@ -94,7 +94,7 @@ allowFightback = true
 fistBaseAttack = 7
 
 worldId = 0
-ip = "127.0.0.1"
+ip = "185.130.61.146"
 bindOnlyConfiguredIpAddress = false
 loginPort = 7171
 gamePort = 7172
@@ -117,7 +117,7 @@ loginOnlyWithLoginServer = false
 premiumPlayerSkipWaitList = true
 
 sqlType = "mysql"
-sqlHost = "localhost"
+sqlHost = "127.0.0.1"
 sqlPort = 3306
 sqlUser = "root"
 sqlPass = ""
